@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://jonathanpabon-dev.github.io/goit-js-hw-08/",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/JonathanPabon-Dev/goit-js-hw-08.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "JPP",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JonathanPabon-Dev/goit-js-hw-08/issues"
